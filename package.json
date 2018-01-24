@@ -1,0 +1,11 @@
+{
+  "name": "treyfoster-md5",
+  "version": "1.0.0",
+  "description": "My first attempt at recreating a hash function",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
